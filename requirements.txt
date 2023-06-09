@@ -1,8 +1,0 @@
-matplotlib
-#opencv-python
-#torch==1.8.0
-pillow
-scikit-learn 
-tensorboardx 
-#fastapi
-uvicorn
